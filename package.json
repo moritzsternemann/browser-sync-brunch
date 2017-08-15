@@ -23,7 +23,7 @@
   "main": "./lib/index",
   "scripts": {},
   "dependencies": {
-    "browser-sync": "^2.6.0",
+    "browser-sync": "^2",
     "extend": "~1.3.0"
   },
   "devDependencies": {}
